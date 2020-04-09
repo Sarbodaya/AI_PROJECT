@@ -1,0 +1,20 @@
+
+
+                         
+
+                           
+
+                           
+                                                   K18KH TIME-TABLE
+                                                                                                                                                
+                            DAYS    MONDAY     TUESDAY     WEDNESDAY    THRUSDAY    FRIDAY                          
+                                                                                                                                                
+                            09-10    Break      Sarbodaya   Other        Sarbodaya   Break 
+                            10-11    Other      Other       Sarbodaya    Other       Sarbodaya   
+                            11-12    Sarbodaya  Other       Other        Other       Other 
+                            12-01    Other      Break       Other        Other       Break
+                            01-02    Other      Other       Other        Other       Other
+                            02-03    Break      Sarbodaya   Break        Break       Sarbodaya
+                            03-04    Break      Other       Other        Sarbodaya   Other                                 \      
+                            04-05    Other      Other       Break        Break       Other                  
+                                                       

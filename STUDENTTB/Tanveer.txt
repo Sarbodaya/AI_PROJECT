@@ -1,0 +1,19 @@
+
+
+                                                                          
+                            
+                             
+
+                                                   K18KH TIME-TABLE
+                                                                                                                                                
+                             DAYS    Monday     TUESDAY     WEDNESDAY    THRUSDAY    FRIDAY                          
+                                                                                                                                                
+                            09-10    Break      Other       Tanveer      Other       Break 
+                            10-11    Other      Tanveer     Other        Tanveer     Other   
+                            11-12    Other      Other       Other        Other       Other 
+                            12-01    Tanveer    Break       Other        Other       Break
+                            01-02    Other      Other       Other        Other       Tanveer
+                            02-03    Break      Other       Break        Break       Other
+                            03-04    Break      Other       Tanveer      Other       Other                                 \      
+                            04-05    Other      Other       Break        Break       Other                  
+                                                      

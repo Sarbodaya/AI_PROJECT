@@ -1,0 +1,17 @@
+
+
+                                                                       
+
+                           
+                                                   K18KH TIME-TABLE
+                                                                                                                                                
+                            DAYS    MONDAY      TUESDAY     WEDNESDAY    THRUSDAY    FRIDAY                          
+                                                                                                                                                
+                            09-10    Break      Other       Other        Other       Break 
+                            10-11    Other      Other       Other        Other       Other 
+                            11-12    Other      Sai_Pavan   Sai_Pavan    Other       Other 
+                            12-01    Other      Break       Other        Other       Break
+                            01-02    Other      Other       Other        Sai_Pavan   Other
+                            02-03    Break      Other       Break        Other       Other
+                            03-04    Break      Other       Other        Other       Other                                 \      
+                            04-05    Sai_Pavan  Other       Break        Break       Other               

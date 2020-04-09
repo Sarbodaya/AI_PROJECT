@@ -1,0 +1,17 @@
+
+                            
+
+                                                      K18KH TIME-TABLE
+                                                                                                                                                
+                            DAYS    MONDAY     TUESDAY     WEDNESDAY    THRUSDAY    FRIDAY                          
+                                                                                                                                                
+                            09-10    Break      Other       Tanveer      Other       Break 
+                            10-11    Manish     Other       Sarbodaya    Other       Other   
+                            11-12    Other      Other       Sai_Pavan    Manish      Manish 
+                            12-01    Other      Break       Teacher      Other       Break
+                            01-02    Manish     Other       Manish       Other       Other
+                            02-03    Break      Other       Break        Break       Other
+                            03-04    Break      Manish      Tanveer      Other       Other                                 \      
+                            04-05    Other      Other       Break        Break       Other
+
+                            
